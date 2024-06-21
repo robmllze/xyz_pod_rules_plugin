@@ -24,3 +24,9 @@ dev_dependencies:
       url: https://github.com/robmllze/xyz_pod_rules_plugin
       ref: main
 ```
+
+**Test Command**
+
+```bash
+dart run custom_lint
+```
